@@ -1,0 +1,925 @@
+{
+    "html_attributions" : [],
+    "next_page_token" : "Aap_uEBWhQYfzW1w5VW6FClP0ZEV17CVyWhscJtkwaSs8FM6-2fHA5Uz9XP-nFEl7NJrHyT6yQt2LyN9g1MRe6w9ITXOhhlf7tiZgcM7J0jsaG6z1HmY-dvG7GPgin1DIG8Xlkdjmpvs5qUSXUBFYC9WLWvAo94CCa4nSy4xbvL9mByZh42biBcFoNasiIIfsix3jEesgPeFESxGT8_7_TQqeLN0ECRjuW8Gt7NkD3R85BMUMC5W5errXd2ctM6k3CiFh24EAVI8z9e1go8fBGavvlSGCrmKKvrV-mNi5bfUJ5VwRQZ8qc4-1XXfr1aHjJzbspsd_s6Y9E0wcOxIrv4y1dXZZenTZr2obwdhQpBF49y5Dp-9CJ8xsLNXulR2frVEXQC4ylLwJZ9fzoSAPimm51s2J0k",
+    "results" : [
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "17th Floor, Iqbal Center, 42 Kemal Ataturk Ave, Dhaka 1213, Bangladesh",
+          "geometry" : {
+             "location" : {
+                "lat" : 23.7935901,
+                "lng" : 90.4056861
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 23.79502627989272,
+                   "lng" : 90.40705002989273
+                },
+                "southwest" : {
+                   "lat" : 23.79232662010728,
+                   "lng" : 90.40435037010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Bukhara Restaurant",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1074,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114853359988407678062\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEAS6MPwd5pPTZUmQBKakN7MyCrF6kByIKPNzpsz3UJgIagv6TSZEjwnLXKBqDb07gOd8uuU0ZNLiO3-7LlcxfZ3RkxL4CzjC1UhpeoOkjVfDBBmtEeTbSmaTFXTc5fBH-H1OaLO-KaKCX1up2uDYHRHIfOsFz2zRHsAcQfBWeUJtIuf",
+                "width" : 1600
+             }
+          ],
+          "place_id" : "ChIJx3gDiQ7HVTcRYluz6bX9I5c",
+          "plus_code" : {
+             "compound_code" : "QCV4+C7 Dhaka",
+             "global_code" : "7MMGQCV4+C7"
+          },
+          "rating" : 4.2,
+          "reference" : "ChIJx3gDiQ7HVTcRYluz6bX9I5c",
+          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 712
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "House No, 03 Rd No 10B, Dhaka 1213, Bangladesh",
+          "geometry" : {
+             "location" : {
+                "lat" : 23.789739,
+                "lng" : 90.40738899999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 23.79109017989272,
+                   "lng" : 90.40872677989272
+                },
+                "southwest" : {
+                   "lat" : 23.78839052010728,
+                   "lng" : 90.40602712010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Paturi",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 683,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/116402396974693788200\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEANp3LXvqOEPQaWGQgdEZmzDVPywNgYQFWp8ub1DAbt5wvzX60zN4wgPQX-yZuNPF3l_LeMzEkbMqUoEz0QlbpBKgACCXBJlB3kIkeB8QL0qLcqDifSGsUJ_QPM3tUHE7RXZ_iFE_Het4l69RgaTojvVfcwqza35jwya00jViAsea_X",
+                "width" : 1024
+             }
+          ],
+          "place_id" : "ChIJUR44fAzHVTcRokaJAqvDpv4",
+          "plus_code" : {
+             "compound_code" : "QCQ4+VX Dhaka",
+             "global_code" : "7MMGQCQ4+VX"
+          },
+          "price_level" : 2,
+          "rating" : 4.2,
+          "reference" : "ChIJUR44fAzHVTcRokaJAqvDpv4",
+          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 680
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "House-15 Rd no. 17, Block- C, Dhaka 1213, Bangladesh",
+          "geometry" : {
+             "location" : {
+                "lat" : 23.7932198,
+                "lng" : 90.40288459999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 23.79456907989272,
+                   "lng" : 90.40423827989272
+                },
+                "southwest" : {
+                   "lat" : 23.79186942010728,
+                   "lng" : 90.40153862010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Star Kebab & Restaurant",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 4128,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106707714390977868347\"\u003eMohammad Mostafa Mehabub\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEDlBzxUcZr3xPbzIPewjg-FzmbKLpM-7W4am4nL7jes1EdnTtDljV0-k5eCDe0xf1PJKMVpQDY_DgJt8pG6-ZlOAIrPdzYlerWUfXmhgwyTk-wT6m1P7UDuxordH1d1ItzjEoAjAF1P2Qtwz6jl0Zm-F6CeoL3Cdg4226DMEsa-_ey1",
+                "width" : 2322
+             }
+          ],
+          "place_id" : "ChIJjd2w_BHHVTcRSDDeKUZIXKk",
+          "plus_code" : {
+             "compound_code" : "QCV3+75 Dhaka",
+             "global_code" : "7MMGQCV3+75"
+          },
+          "price_level" : 2,
+          "rating" : 4.2,
+          "reference" : "ChIJjd2w_BHHVTcRSDDeKUZIXKk",
+          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 16996
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "3rd Floor, 67, GH Heights, Shatmoshjid Road Opp Bangladesh Medical, Dhaka 1209, Bangladesh",
+          "geometry" : {
+             "location" : {
+                "lat" : 23.7498091,
+                "lng" : 90.3686446
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 23.75119897989272,
+                   "lng" : 90.37006237989272
+                },
+                "southwest" : {
+                   "lat" : 23.74849932010728,
+                   "lng" : 90.36736272010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "bbq Bangladesh",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112844567745639872563\"\u003eGogle Gagle\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEBkbaHlR6FZVMfmOUoYUWj4mZU0kn1n2bw5M2UPxFyd3P7BQTO-IRNFoNfxujr4LKy6pqeexHAXksC-Vk52-DL2W8Fe-pmaTor3jpINV2toqQtvfll6GHT10JEGOoP9Ekqpow9mVAkxWDkgM9ftlb3ArL59bup9hTIehkqBm1flgut_",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJE8tIP0y_VTcRHj3DiBcQC4M",
+          "plus_code" : {
+             "compound_code" : "P9X9+WF Dhaka",
+             "global_code" : "7MMGP9X9+WF"
+          },
+          "price_level" : 2,
+          "rating" : 4.2,
+          "reference" : "ChIJE8tIP0y_VTcRHj3DiBcQC4M",
+          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1762
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "Level 8, House 1/H (ANZ Huq Eleven Square, রোড ১১, Dhaka, Bangladesh",
+          "geometry" : {
+             "location" : {
+                "lat" : 23.7903658,
+                "lng" : 90.4066313
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 23.79176857989272,
+                   "lng" : 90.40798922989272
+                },
+                "southwest" : {
+                   "lat" : 23.78906892010728,
+                   "lng" : 90.40528957010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Tarka",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3000,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109438349087414274424\"\u003erazonno mugdha\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEBnLUER8tCyhfT997ScQI1b6fUSpF2i595QI9CkecFIO1YbVeOmpnUknOJUvngXRIXw2oqpcqr4uRTTnhq36lxOzIJlLbAu0yES9vyM_Y4t9hhG6lrk9vuS1yd_E-VVg7xJ626jF8VtQrxthh0C64xAg2wCQx-0xnAygxOcD9uWGfxK",
+                "width" : 4000
+             }
+          ],
+          "place_id" : "ChIJW4h-OQzHVTcRUVHl_-QeUmo",
+          "plus_code" : {
+             "compound_code" : "QCR4+4M Dhaka",
+             "global_code" : "7MMGQCR4+4M"
+          },
+          "price_level" : 2,
+          "rating" : 4,
+          "reference" : "ChIJW4h-OQzHVTcRUVHl_-QeUmo",
+          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1785
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "Sir Sayed Rd, Dhaka 1205, Bangladesh",
+          "geometry" : {
+             "location" : {
+                "lat" : 23.7623477,
+                "lng" : 90.3672608
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 23.76371402989272,
+                   "lng" : 90.36860462989272
+                },
+                "southwest" : {
+                   "lat" : 23.76101437010728,
+                   "lng" : 90.36590497010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "বাংলা ভাতের রেস্টুরেন্ট",
+          "photos" : [
+             {
+                "height" : 3480,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/100377484532170990872\"\u003eIshtiaque Khan\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEA2RVp0HdxEGtEA8s97NOQjya85g0VcsGuFcqDrvEUr4DkaKIAIVG4V-ixz3DGl4Us_3g9couM31G5u0PBvyo28A9GMqqeLMXnFXsSJfXHGq_Di0gipUxVEfr1BD8eq8MEXvvOZn1MNLcuV0iQzyGA6mdpPUpojI6hh7xUfcvk2mDIW",
+                "width" : 4640
+             }
+          ],
+          "place_id" : "ChIJJ59USdO_VTcRl00KyLUANYo",
+          "plus_code" : {
+             "compound_code" : "Q968+WW Dhaka",
+             "global_code" : "7MMGQ968+WW"
+          },
+          "price_level" : 1,
+          "rating" : 2.6,
+          "reference" : "ChIJJ59USdO_VTcRl00KyLUANYo",
+          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 5
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "E, 60 Kemal Ataturk Avenue, Dhaka 1213, Bangladesh",
+          "geometry" : {
+             "location" : {
+                "lat" : 23.7932535,
+                "lng" : 90.40918339999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 23.79466877989272,
+                   "lng" : 90.41053207989273
+                },
+                "southwest" : {
+                   "lat" : 23.79196912010727,
+                   "lng" : 90.40783242010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Lucknow Dhaka",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109867063786878803533\"\u003eSyed Haque\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEBEyyOIve9yldPTaxCPehkMRC-a0ITRW5_L0ML68peTuqy-uLomLJ0ezxhTJOHxoIbTeMiJtnQCNhbhsNxMbNwBRIwqp2SuvGFLT8gWpkRC_VJeoBgnW2lkmCrJwDRuqIUgKh5NsxM2GjmUbcvg35_tJtXQVVTHfUtRxBmUMz6vDDfD",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJp0-csQ7HVTcRKm_H0rMnNrQ",
+          "plus_code" : {
+             "compound_code" : "QCV5+8M Dhaka",
+             "global_code" : "7MMGQCV5+8M"
+          },
+          "price_level" : 3,
+          "rating" : 4.2,
+          "reference" : "ChIJp0-csQ7HVTcRKm_H0rMnNrQ",
+          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1432
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "Begum Rokeya Avenue, Opposite IDB Bhaban, Inside Bangladesh Air Force Museum, Agargaon, Dhaka 1207, Bangladesh",
+          "geometry" : {
+             "location" : {
+                "lat" : 23.778819,
+                "lng" : 90.38020809999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 23.78014757989272,
+                   "lng" : 90.38147677989272
+                },
+                "southwest" : {
+                   "lat" : 23.77744792010727,
+                   "lng" : 90.37877712010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Zaytun Restaurant",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1080,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/111906540098174366155\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEB8ZgDv39-izgwpt5hWkbUZcBlh41aay8jBlHZf0HXkwgO7iNdTe6dGMZQ8CPsAckj7qXL_46OcshDkx43ySYgkwGZFBbZ5VGlM5CESwpOuRcODzTnQyYzrRsBGPnNLawlbPQY1F4wKiovKJLEhlHfyxT9m6LgALdoZLvPPpA6gQG7_",
+                "width" : 1920
+             }
+          ],
+          "place_id" : "ChIJ0bZSl07HVTcRhDLyaaGq5hA",
+          "plus_code" : {
+             "compound_code" : "Q9HJ+G3 Dhaka",
+             "global_code" : "7MMGQ9HJ+G3"
+          },
+          "price_level" : 2,
+          "rating" : 3.9,
+          "reference" : "ChIJ0bZSl07HVTcRhDLyaaGq5hA",
+          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 974
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "House 14 Rd No. 11, Dhaka 1213, Bangladesh",
+          "geometry" : {
+             "location" : {
+                "lat" : 23.7902795,
+                "lng" : 90.4069719
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 23.79170427989272,
+                   "lng" : 90.40833212989271
+                },
+                "southwest" : {
+                   "lat" : 23.78900462010728,
+                   "lng" : 90.40563247010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Sajna Restaurant",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3792,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/113011048226327251674\"\u003egolam rabbane\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uECUL6aM62zaTrsyl0g5OfrtNwwhkabVsdIgavHbEUUg2AP0P2XHQCvDDAHU7ba_uCzj7-JuYjKYWHYKbrYXbass7wzKV5LT9xuvSOWTMIjfGwl8huUuNekU71SLggKsUqv9_uezLOk8hN3-wEwq8CCrPfFmq2N_XhdbmIpKg9bp_Mje",
+                "width" : 5056
+             }
+          ],
+          "place_id" : "ChIJi8lobwzHVTcRgDqqd7vH9To",
+          "plus_code" : {
+             "compound_code" : "QCR4+4Q Dhaka",
+             "global_code" : "7MMGQCR4+4Q"
+          },
+          "price_level" : 2,
+          "rating" : 4.1,
+          "reference" : "ChIJi8lobwzHVTcRgDqqd7vH9To",
+          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1825
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "60 Kemal Ataturk Ave, Dhaka 1212, Bangladesh",
+          "geometry" : {
+             "location" : {
+                "lat" : 23.7932385,
+                "lng" : 90.40915819999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 23.79466112989272,
+                   "lng" : 90.41050672989272
+                },
+                "southwest" : {
+                   "lat" : 23.79196147010728,
+                   "lng" : 90.40780707010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Jatra Biroti Restaurant",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2128,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101804053217927351612\"\u003eMuhammad Selim\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEAyCyZY--zkiVcazVEZorAa94XskalB0CuWw_vLZ376mCJPifxcRxrWxDy8g0RmgHqUV4m8oMU31GpSQZNJ3TMiFQhnp0oQ1xphqZCHRrliqrPiNy28XKq3ByTZNDMR38BggJycIuhGd7jHikP7HTUx4aIdXKB9huxBclHdQWdxvfE",
+                "width" : 4608
+             }
+          ],
+          "place_id" : "ChIJ89q-qUzHVTcRmM5lB9Wxo3M",
+          "plus_code" : {
+             "compound_code" : "QCV5+7M Dhaka",
+             "global_code" : "7MMGQCV5+7M"
+          },
+          "price_level" : 3,
+          "rating" : 4.2,
+          "reference" : "ChIJ89q-qUzHVTcRmM5lB9Wxo3M",
+          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 2267
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "541 east, Kazipara Masjid Road, Dhaka, Bangladesh",
+          "geometry" : {
+             "location" : {
+                "lat" : 23.798765,
+                "lng" : 90.37309599999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 23.80007867989272,
+                   "lng" : 90.37446397989272
+                },
+                "southwest" : {
+                   "lat" : 23.79737902010728,
+                   "lng" : 90.37176432010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "CHTExpress",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 4608,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109661529858434837441\"\u003eKazi Borhan Ibn Yusuf\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEDbqvzG1Ly5_GSsbnI2RL2yN7oZLU_zZTKiPKNuLpe8-Vo2MXIughL0jstzzZorqsKju1KHoChNRvtf3C1NHBHQCgqd62Bd2auP8X-2cVp3ME6qUIo-_EUsDQ28eXuImdZjElBls_63tpEVmXWE8flU1r3RYqaKcO3OMZ_iA0MHMWLj",
+                "width" : 3456
+             }
+          ],
+          "place_id" : "ChIJw4stYM3AVTcRdOav7f_HrE8",
+          "plus_code" : {
+             "compound_code" : "Q9XF+G6 Dhaka",
+             "global_code" : "7MMGQ9XF+G6"
+          },
+          "price_level" : 2,
+          "rating" : 4.4,
+          "reference" : "ChIJw4stYM3AVTcRdOav7f_HrE8",
+          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 382
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "Plot No. 35, Abedin Tower, 1st Floor, Road No 17, Kamal Ataturk Ave, Dhaka 1213, Bangladesh",
+          "geometry" : {
+             "location" : {
+                "lat" : 23.7931073,
+                "lng" : 90.40574869999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 23.79445377989272,
+                   "lng" : 90.40712522989273
+                },
+                "southwest" : {
+                   "lat" : 23.79175412010727,
+                   "lng" : 90.40442557010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Takeout Banani",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2268,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106274303094255948064\"\u003eDil Afroz\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEAE4n9BFSr6TNFis8eDloaakUSxL2Tnm1AZTEe2iv7yx_OaTpRZsT8t9NeeiyL_KyoUejH31GX2EmNFdPMzUvwxCbwNIDLnrMYhPo3w7gyVUIRifjWKV88byVK3AzARqBU9Igr5azLtljHaXM_5WdI8lEQxvo7jF37DZzt6i9FXCQcD",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJD-LJDhLHVTcRlRlxntfUiYg",
+          "plus_code" : {
+             "compound_code" : "QCV4+67 Dhaka",
+             "global_code" : "7MMGQCV4+67"
+          },
+          "price_level" : 2,
+          "rating" : 4.4,
+          "reference" : "ChIJD-LJDhLHVTcRlRlxntfUiYg",
+          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 5433
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "3rd floor, 23 North Kafrul 2nd &, 2nd & 3rd Floors Kachukhet Rd, Dhaka 1206, Bangladesh",
+          "geometry" : {
+             "location" : {
+                "lat" : 23.7913246,
+                "lng" : 90.38763419999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 23.79268552989272,
+                   "lng" : 90.38906572989272
+                },
+                "southwest" : {
+                   "lat" : 23.78998587010728,
+                   "lng" : 90.38636607010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Thai Garden Chinese & Thai Restaurant",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 540,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/108310792266702884273\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEB3Fml9DKpm4JaZJF_I0rcl9ow-357JmL64x2adVtlL2mfrhst4nVG4QSrBjaabdAzwC1OXsB4NqMepWuSrJDQQ18Py5CCJacspuKd57OJCgf7aEb3cooj2Vr1-pRLlyfo70-VnDTMU99wupUHRvGNXjllEkW_fNncwjJiNXUE_o1bb",
+                "width" : 1280
+             }
+          ],
+          "place_id" : "ChIJoW5NajnHVTcR3jqYEgHAwFw",
+          "plus_code" : {
+             "compound_code" : "Q9RQ+G3 Dhaka",
+             "global_code" : "7MMGQ9RQ+G3"
+          },
+          "price_level" : 2,
+          "rating" : 4,
+          "reference" : "ChIJoW5NajnHVTcR3jqYEgHAwFw",
+          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 878
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "House 25, 2nd Floor, BFC Building, Rd No. 11, Dhaka 1213, Bangladesh",
+          "geometry" : {
+             "location" : {
+                "lat" : 23.7901743,
+                "lng" : 90.40805329999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 23.79158002989272,
+                   "lng" : 90.40941232989272
+                },
+                "southwest" : {
+                   "lat" : 23.78888037010728,
+                   "lng" : 90.40671267010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Yum Cha District",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3120,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102420552307208181447\"\u003eTanvir Asif\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEDWcAFTg_4FRXiJtkFd72TieEmGd1cmY57XDpuRJSWvpzLg3SHntIbgyRPMicJ663Jqpc1KVoNgrtSV2CMgt9d9VT6irXoJJ-oSmkOBJlEjAnQs6iSffVVqy6O_s1foxLQiGK0ApmpSXCGC8bSer1MBDZWNZWQKTkhSwkxEnEfhWnUA",
+                "width" : 4160
+             }
+          ],
+          "place_id" : "ChIJtV6eiAvHVTcRCxBoKR6ibfE",
+          "plus_code" : {
+             "compound_code" : "QCR5+36 Dhaka",
+             "global_code" : "7MMGQCR5+36"
+          },
+          "price_level" : 2,
+          "rating" : 4.5,
+          "reference" : "ChIJtV6eiAvHVTcRCxBoKR6ibfE",
+          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 2815
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "House-10, Road-53, Gulshan Circle-2, Top of Weavers Level-6 Dhaka, 1212, Bangladesh",
+          "geometry" : {
+             "location" : {
+                "lat" : 23.7957609,
+                "lng" : 90.4133504
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 23.79702787989272,
+                   "lng" : 90.41472527989272
+                },
+                "southwest" : {
+                   "lat" : 23.79432822010727,
+                   "lng" : 90.41202562010729
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Istanbul Restaurant Dhaka",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2988,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114456001233576557922\"\u003eMd. Hafizur Rahman\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEDCo0Aeb14in2k672YQwdhlGXCCHta5kZkNX4tJSYdIN6Mb2WpmoaxonSp_1FazgK9nb-0RpWW_VjiMC0AgYo2hiRSZ-7plmEmOXz5kY4ahBm2NkzIlAci42ZK3LOLuzNBdo_gIvl-iuRW6HlpFGYCLHlGxKd0MoMHO6ccwJzuiFJZH",
+                "width" : 5312
+             }
+          ],
+          "place_id" : "ChIJ-do-OKLHVTcR3qnNoMiYpZg",
+          "plus_code" : {
+             "compound_code" : "QCW7+88 Dhaka",
+             "global_code" : "7MMGQCW7+88"
+          },
+          "price_level" : 2,
+          "rating" : 4,
+          "reference" : "ChIJ-do-OKLHVTcR3qnNoMiYpZg",
+          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1529
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "Q9RH+MWF, Dhaka, Bangladesh",
+          "geometry" : {
+             "location" : {
+                "lat" : 23.7916509,
+                "lng" : 90.3800227
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 23.79302047989272,
+                   "lng" : 90.38136282989271
+                },
+                "southwest" : {
+                   "lat" : 23.79032082010728,
+                   "lng" : 90.37866317010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Sabbir Hotel",
+          "place_id" : "ChIJ27-_zXvHVTcRCDUR_jN46f8",
+          "rating" : 0,
+          "reference" : "ChIJ27-_zXvHVTcRCDUR_jN46f8",
+          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "Setu Bhaban, Bangladesh Bridge Authority Office, Banani, Mohakhali, Dhaka 1212, Bangladesh",
+          "geometry" : {
+             "location" : {
+                "lat" : 23.7840866,
+                "lng" : 90.39958469999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 23.78545212989272,
+                   "lng" : 90.40080552989272
+                },
+                "southwest" : {
+                   "lat" : 23.78275247010728,
+                   "lng" : 90.39810587010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Nizam Restaurant",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/118295381964518195206\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEC1qTGOLwC3weVgIPyZ_U_viUXwKc4GHLgoWgpiKT9Nnnm_HiNtwpBC0xFs0debN6s2pDo5wHTXyPc0GdMnqSTGsGsqU2QjuUfa0fOHKXXWDiXiTomsaOUj4BtX5QV2CalAQNMipygErKLST9zqUqiJ0pYLwnqvhFgSEmWvjs5JVrEi",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJdT4x82zHVTcRqiblrnE09fg",
+          "plus_code" : {
+             "compound_code" : "Q9MX+JR Dhaka",
+             "global_code" : "7MMGQ9MX+JR"
+          },
+          "rating" : 3.3,
+          "reference" : "ChIJdT4x82zHVTcRqiblrnE09fg",
+          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 9
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "Rangs FC Enclave , 2nd floor, Road 32 Plot 6/A, Gulshan Ave, Dhaka 1212, Bangladesh",
+          "geometry" : {
+             "location" : {
+                "lat" : 23.7861087,
+                "lng" : 90.41676509999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 23.78746102989273,
+                   "lng" : 90.41817517989271
+                },
+                "southwest" : {
+                   "lat" : 23.78476137010728,
+                   "lng" : 90.41547552010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Bella Italia",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2592,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101571259440701892781\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uECZJU3bmR6cf13HuguJjb7FbMzjizP2hB628hroDD8JbGTJQot_FwR4LmNho7ej3ZcdmdyzvtVQuhuBi2b21YQXlEZQtSM-piabjhTHikhCAIENty_Qqz97Tfc-fmYEKjdQ8i2AHJ_OMNgo1rMTR5HrEpWz-74o3GsJdqPkCjrYLAI",
+                "width" : 4608
+             }
+          ],
+          "place_id" : "ChIJAdda0p7HVTcRXF7DngavR4w",
+          "plus_code" : {
+             "compound_code" : "QCP8+CP Dhaka",
+             "global_code" : "7MMGQCP8+CP"
+          },
+          "price_level" : 2,
+          "rating" : 4.3,
+          "reference" : "ChIJAdda0p7HVTcRXF7DngavR4w",
+          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1530
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "Bay's Edgewater 1st Floor NE (N, 12 Gulshan North Ave, Dhaka 1212, Bangladesh",
+          "geometry" : {
+             "location" : {
+                "lat" : 23.7960059,
+                "lng" : 90.41745999999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 23.79729447989272,
+                   "lng" : 90.41883057989273
+                },
+                "southwest" : {
+                   "lat" : 23.79459482010727,
+                   "lng" : 90.41613092010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+          "name" : "Bistro-E",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/117434342870554803221\"\u003eZulkarnain Kashem\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEAPmjUjxbj1YV540S2LtfAz8hoq7qCdpRw_tYr8Ke2eSRWxPDzRE9m7DqCoMpkv18u3jnfKVYF0KlD7_SgTdAC_pfM4QNqY8nB0So3Fc4pyfq7Lq7pEpNXAGEuSYPiUtJ07Q92yi93eHmm3E-VD3SDYzcCcfD-eUz0VPGQ1eUmdB49D",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJT-gS16XHVTcRQkCGw_OYY4M",
+          "plus_code" : {
+             "compound_code" : "QCW8+CX Dhaka",
+             "global_code" : "7MMGQCW8+CX"
+          },
+          "price_level" : 3,
+          "rating" : 4.5,
+          "reference" : "ChIJT-gS16XHVTcRQkCGw_OYY4M",
+          "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1284
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "Awal center, 34 Kemal Ataturk Ave, Dhaka 1213, Bangladesh",
+          "geometry" : {
+             "location" : {
+                "lat" : 23.7936036,
+                "lng" : 90.40510089999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 23.79507222989272,
+                   "lng" : 90.40647012989272
+                },
+                "southwest" : {
+                   "lat" : 23.79237257010727,
+                   "lng" : 90.40377047010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "The Manhattan FISH MARKET Bangladesh",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1000,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109291565549248915366\"\u003eSM Asad\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uECzpkacYoOtDrGUFzBvTBfZSg_z5Zt_mLdPdBqGCYRbvMhzmiLFO1Kp4KQg_dz_XJBHq2J-fq4DU2MHj-Fgz1N_lwm-AIh7T0iEl2RD1GHxPnumkeLSifWNXBu4mBcDDBlum5jKqVAd0eDYDZFPsO_kyNL1J_MCJdEzqnO0M0rR4M-w",
+                "width" : 1500
+             }
+          ],
+          "place_id" : "ChIJJy2qaQ7HVTcRlOf6AN4tcec",
+          "plus_code" : {
+             "compound_code" : "QCV4+C2 Dhaka",
+             "global_code" : "7MMGQCV4+C2"
+          },
+          "price_level" : 3,
+          "rating" : 4.3,
+          "reference" : "ChIJJy2qaQ7HVTcRlOf6AN4tcec",
+          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 3746
+       }
+    ],
+    "status" : "OK"
+ }
+ 
